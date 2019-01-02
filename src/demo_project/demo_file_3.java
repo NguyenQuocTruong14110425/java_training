@@ -14,8 +14,21 @@ public class demo_file_3 {
 		this.data = data;
 	}
 
-	public String hello()
+	public String hello3()
 	{
 		return "hello";
 	}
+	public String hello4()
+	{
+		return "hello";
+	}
+	public String hello5()
+	{
+		return "hello";
+	}
+	public String hello6()
+	{
+		return "hello";
+	}
+	
 }
