@@ -22,4 +22,8 @@ public class demo_file {
 		String calculatehash = StringUtil.applySha256(previousHash + Long.toString(timeStamp) +  data);
 		return calculatehash;
 	}
+	public String hello()
+	{
+		return "hello";
+	}
 }
