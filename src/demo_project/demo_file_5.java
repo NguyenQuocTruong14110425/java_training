@@ -30,5 +30,8 @@ public class demo_file_3 {
 	{
 		return "hello";
 	}
-	
+	public String hello7()
+	{
+		return "hello";
+	}
 }
