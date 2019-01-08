@@ -34,4 +34,8 @@ public class demo_file_3 {
 	{
 		return "hello";
 	}
+		public String hello8()
+	{
+		return "hello";
+	}
 }
